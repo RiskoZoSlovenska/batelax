@@ -2,7 +2,7 @@
 
 **BA**tch **TE**sting **L**u**A**ssert e**X**tension
 
-An experimental [luassert]() extension which aims to simplify writing many similar tests.
+An experimental [luassert](https://github.com/Olivine-Labs/luassert) extension which aims to simplify writing many similar tests.
 
 For example, consider the following:
 ```lua
